@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-eyes-talk-softly/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Your Eyes Talk Softly](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-eyes-talk-softly/) |
+| **Get License** | [Obtain a Music License for Your Eyes Talk Softly](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-eyes-talk-softly/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c69d7033947a68022ecbaa02e14529efde934267b2ff97be642d911badb59c88` |
 | **Timestamp** | June 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

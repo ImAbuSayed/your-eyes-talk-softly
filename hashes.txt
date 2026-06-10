@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Eyes Talk Softly
+
+This log tracks the cryptographic history and versioning for the song **Your Eyes Talk Softly** (your-eyes-talk-softly).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-11T04:46:20.292872 | `v1` | `c69d7033947a68022ecbaa02e14529efde934267b2ff97be642d911badb59c88` | `e51c70a806d64cf58836c4239040b538eca7a3d22b6cb833eef7d4e2f3d61be9` | `2026-06-11_your-eyes-talk-softly-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
