@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-eyes-talk-softly/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Your Eyes Talk Softly](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-eyes-talk-softly/) |
+| **Get License** | [Request Licensing for Your Eyes Talk Softly](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-eyes-talk-softly/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can hear the quiet things you never say out loud
+> The way you hold my gaze and pull me from the crowd
+> A single glance across the room is pulling me so deep
+> Your eyes talk softly, making promises to keep
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
